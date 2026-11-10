@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Compilati
+*.class
+
+# Maven
+target/
+
+# Jar
+*.jar
+
+# Logs
+*.log
